@@ -1,1 +1,12 @@
 /* Add screen styles below */
+
+body {
+    background-color: grey;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+ul {
+    text-align: center;
+    list-style-position: inside;
+}
